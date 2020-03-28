@@ -9,6 +9,7 @@
 
 ## Related tutorials and Notice
 - User Manual. [click here]()
+- How to buy the MKS TMC2160-OC. [click here](https://www.aliexpress.com/item/4000185818422.html?spm=a2g0o.store_home.productList_8325809.pic_2)
 - Welcome to follow us on Facebook to learn about the company's latest developments. [click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Note
